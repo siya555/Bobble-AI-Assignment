@@ -1,0 +1,10 @@
+//Code by SiyaRam
+1. Export this folder .
+2. Open command line terminal in linux at this location.
+3. Compile the code : (g++ q1.cpp )
+4. Execute the code by giving file name as command line argument
+for ex :
+       ./a.out EnglishDictionary.csv
+5. Enter number of words.
+6. Enter words to search.
+
